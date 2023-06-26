@@ -1,0 +1,15 @@
+{
+    "name": "codigaco/php-payload-validator",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codigaco\\PhpPayloadValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ralona"
+        }
+    ],
+    "require": {}
+}
