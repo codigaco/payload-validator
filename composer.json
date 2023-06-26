@@ -3,7 +3,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Codigaco\\PhpPayloadValidator\\": "src/"
+            "Codigaco\\PhpPayloadValidator\\": "src/",
+            "Codigaco\\PhpPayloadValidator\\Test\\": "tests/"
         }
     },
     "authors": [
